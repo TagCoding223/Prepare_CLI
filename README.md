@@ -124,4 +124,4 @@ This project is private and not open for public use or distribution.
 
 ## Contact
 
-For any questions or feedback, feel free to reach out by sending a message on[GitHub](https://github.com/TagCoding223).
+For any questions or feedback, feel free to reach out by sending a message on [GitHub](https://github.com/TagCoding223).
